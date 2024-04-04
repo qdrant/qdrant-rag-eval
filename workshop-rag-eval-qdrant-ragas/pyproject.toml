@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "workshop-rag-eval-qdrant-ragas"
+version = "0.1.0"
+description = ""
+authors = ["atita arora <atitaarora@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+qdrant-client = "^1.8.2"
+fastembed = {extras = ["fastembed"], version = "^0.2.6"}
+datasets = "^2.18.0"
+langchain = "^0.1.14"
+ragas = "^0.1.6"
+pandas = "^2.2.1"
+jupyter = "^1.0.0"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.group.dev.dependencies]
+openai = "^1.16.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
