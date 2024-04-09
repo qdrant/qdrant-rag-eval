@@ -6,12 +6,10 @@ authors = ["atita arora <atitaarora@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10, <3.12"
 arize-phoenix = "^3.19"
 arize-phoenix-evals = "^0.6.0"
-llama-index-callbacks-arize-phoenix = "^0.1.4"
-llama-index-packs-arize-phoenix-query-engine = "^0.1.4"
-llama-index = "^0.10.26"
+llama-index = "==0.10.19"
 qdrant-client = "^1.8.2"
 openai = "^1.16.1"
 datasets = "^2.18.0"
