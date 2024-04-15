@@ -9,7 +9,7 @@ The Jupyter notebooks guide you step-by-step building RAG on Qdrant's documentat
 Please clone the repository and install all the dependencies to run the notebooks.
 
 ```bash
-git clone #TODO
+git clone https://github.com/qdrant/qdrant-rag-eval.git
 ```
 
 ### Poetry
