@@ -2,7 +2,7 @@
 
 This repository contains the notebooks and instructions for a RAG evaluation workshop using [Qdrant](https://qdrant.tech/) as a vector database and [RAGAS](https://docs.ragas.io/en/latest/index.html) as the evaluation framework.
 
-The Jupyter notebooks guide you step-by-step building RAG on Qdrant's documentation and walking through optimizations and tweaks along with evaluating using Phoenix.
+The Jupyter notebooks guide you step-by-step building RAG on Qdrant's documentation and walking through optimizations and tweaks along with evaluation.
 
 ## Prerequisites
 

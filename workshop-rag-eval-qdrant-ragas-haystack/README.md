@@ -2,7 +2,7 @@
 
 This repository contains the notebooks and instructions for a RAG evaluation workshop using [Qdrant](https://qdrant.tech/) as a vector database with [Mixedbread Large V1](https://www.mixedbread.ai/blog/mxbai-embed-large-v1) as embedding model , along with [RAGAS](https://docs.ragas.io/en/latest/index.html) through [Haystack](https://docs.haystack.deepset.ai/docs/ragasevaluator) , as the evaluation framework.
 
-The Jupyter notebooks guide you step-by-step building RAG on Qdrant's documentation and walking through optimizations and tweaks along with evaluating using Phoenix.
+The Jupyter notebooks guide you step-by-step building RAG on Qdrant's documentation and walking through optimizations and tweaks along with evaluations.
 
 ## Prerequisites
 
