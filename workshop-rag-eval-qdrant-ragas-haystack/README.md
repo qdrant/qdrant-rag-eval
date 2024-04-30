@@ -18,7 +18,7 @@ This project uses [Poetry](https://python-poetry.org/) to manage its dependencie
 Once you have it, the dependencies can be installed by running:
 
 ```bash
-cd workshop-rag-eval-qdrant-ragas
+cd workshop-rag-eval-qdrant-ragas-haystack
 poetry install --no-root
 poetry shell
 ```
