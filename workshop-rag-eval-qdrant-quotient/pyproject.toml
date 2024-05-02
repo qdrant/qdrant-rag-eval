@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "workshop-rag-eval-qdrant-quotient"
+version = "0.1.0"
+description = ""
+authors = ["atita arora <atitaarora@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+qdrant-client = "^1.8.2"
+fastembed = {extras = ["fastembed"], version = "^0.2.6"}
+datasets = "^2.18.0"
+langchain = "^0.1.14"
+pandas = ">=1.5.3,<2.0.0"
+notebook = "==7.1.2"
+python-dotenv = "^1.0.1"
+matplotlib = "==3.8.4"
+quotientai = "==0.0.2"
+[tool.poetry.group.dev.dependencies]
+openai = "^1.16.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
