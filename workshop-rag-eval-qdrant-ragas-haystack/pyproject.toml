@@ -16,6 +16,8 @@ notebook = "==7.1.2"
 python-dotenv = "^1.0.1"
 matplotlib = "==3.8.4"
 ragas-haystack = "==0.2.0"
+fastembed-haystack = "==1.1.0"
+qdrant-haystack = "==3.7.0"
 [tool.poetry.group.dev.dependencies]
 openai = "^1.16.1"
 
