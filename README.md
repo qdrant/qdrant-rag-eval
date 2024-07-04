@@ -13,7 +13,7 @@ This repository contains various implementations of Retrieval Augmented Generati
 
 - **[workshop-rag-eval-qdrant-quotient-advance-hybrid-with-rerankers](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-qdrant-quotient/notebook/quotient_qdrant_rag_eval_with_reranker.ipynb)**: RAG implementation showcasing Naive RAG and Hybrid RAG implemented using [Qdrant](https://qdrant.tech/) and [Langchain](https://www.langchain.com/) and Hybrid RAg implemented using [Llamaindex](https://www.llamaindex.ai/) incrementally evaluated and improved through rapid experimentation with rerankers from [MixedBread](https://www.mixedbread.ai/blog/mxbai-rerank-v1) , [Jina Colbert](https://huggingface.co/jinaai/jina-colbert-v1-en) and [Cohere](https://cohere.com/blog/rerank-3) using [Quotient AI](https://www.quotientai.co/). <br/>
 **Youtube**: TBD <br>
-**Presented at [AI Engineer Wolrd Fair](https://www.ai.engineer/worldsfair)**: https://www.ai.engineer/worldsfair/2024/schedule/navigating-rag-optimization-with-an-evaluation-driven-compass <br/><br/>
+**Presented at [AI Engineer World Fair](https://www.ai.engineer/worldsfair)**: https://www.ai.engineer/worldsfair/2024/schedule/navigating-rag-optimization-with-an-evaluation-driven-compass <br/><br/>
 
 - **[workshop-rag-eval-qdrant-ragas](https://github.com/qdrant/qdrant-rag-eval/tree/master/workshop-rag-eval-qdrant-ragas)**:  RAG implementation showcasing Naive RAG implemented using [Qdrant](https://qdrant.tech/) and [Langchain](https://www.langchain.com/) , experimentation and effects of Retrieval Window size evaluated through [RAGAS](https://docs.ragas.io/en/latest/index.html). <br/>
 **Article** : https://superlinked.com/vectorhub/articles/retrieval-augmented-generation-eval-qdrant-ragas <br/><br/>
