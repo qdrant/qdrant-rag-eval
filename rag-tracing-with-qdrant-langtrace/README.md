@@ -15,7 +15,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system using Qd
 3. Clone this repository:
 
    ```bash
-   git clone git clone https://github.com/qdrant/qdrant-rag-eval.git
+   git clone https://github.com/qdrant/qdrant-rag-eval.git
    cd qdrant-rag-eval/rag-tracing-with-qdrant-langtrace
    ```
 
