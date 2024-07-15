@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "rag-tracing-with-qdrant-langtrace"
+version = "0.1.0"
+description = ""
+authors = ["yemiscale3 <yemi@scale3labs.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+qdrant-client = "^1.10.1"
+openai = "^1.35.13"
+langtrace-python-sdk = "^2.1.29"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
