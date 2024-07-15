@@ -6,12 +6,13 @@ authors = ["yemiscale3 <yemi@scale3labs.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.10, <3.12"
 qdrant-client = "^1.10.1"
+fastembed = {extras = ["fastembed"], version = "^0.2.6"}
 openai = "^1.35.13"
 langtrace-python-sdk = "^2.1.29"
 jupyter = "^1.0.0"
-
+python-dotenv = "^1.0.1"
 
 [build-system]
 requires = ["poetry-core"]
