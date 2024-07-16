@@ -37,7 +37,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system using Qd
    jupyter notebook
    ```
 
-7. Open the `rag_qdrant_langtrace.ipynb` notebook in your browser. Again be sure to update the .env with your API keys
+7. Open the `qdrant_rag_with_langtrace.ipynb` notebook in your browser. Again be sure to update the .env with your API keys
 
 8. Before running the notebook, make sure to replace the placeholder API keys with your actual OpenAI and Langtrace API keys.
 
