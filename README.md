@@ -25,6 +25,8 @@ This repository contains various implementations of Retrieval Augmented Generati
 
 - **[agentic_rag_with_unify/notebook](https://github.com/qdrant/qdrant-rag-eval/tree/master/agentic_rag_with_unify)** :  RAG implementation showing Naive RAG implementation using [Qdrant](https://qdrant.tech/) and improved through using Agent Routing and [Unify](https://unify.ai/).  <br/><br/>
 
+- **[tracing rag with Langtrace](https://github.com/qdrant/qdrant-rag-eval/tree/master/rag-tracing-with-qdrant-langtrace)** :  RAG implementation showing Naive RAG implementation using [Qdrant](https://qdrant.tech/) as the vector database and [Langtrace](https://langtrace.ai/) for tracing operations.<br/><br/> 
+
 - **[synthetic_qna/notebook](https://github.com/qdrant/qdrant-rag-eval/tree/master/synthetic_qna)** : Showing synthetic evaluation question generation or checkout https://www.fiddlecube.ai/ 
 
 ### Qdrant Integration
