@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "workshop-rag-eval-oxford-llm2024"
+version = "0.1.0"
+description = ""
+authors = ["Atita arora <atitaarora@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+qdrant-client = "^1.11.0"
+fastembed = {extras = ["fastembed"], version = "^0.3.5"}
+datasets = "^2.18.0"
+langchain = "^0.2.16"
+ragas = "^0.1.20"
+pandas = "^2.2.1"
+notebook = "==7.1.2"
+python-dotenv = "^1.0.1"
+matplotlib = "==3.8.4"
+
+[tool.poetry.group.dev.dependencies]
+openai = "^1.47.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
