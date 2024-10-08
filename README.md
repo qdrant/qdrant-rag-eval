@@ -29,6 +29,14 @@ This repository contains various implementations of Retrieval Augmented Generati
 
 - **[tracing rag with Langtrace](https://github.com/qdrant/qdrant-rag-eval/tree/master/rag-tracing-with-qdrant-langtrace)** :  RAG implementation showing Naive RAG implementation using [Qdrant](https://qdrant.tech/) as the vector database and [Langtrace](https://langtrace.ai/) for tracing operations.<br/><br/>
 
+- **[Advance RAG workshop x Oxford](https://github.com/qdrant/qdrant-rag-eval/tree/master/workshop-rag-eval-oxford-llm2024)** : Topics covering below :
+  - **[Vector Types from the Angle of similarity scores](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-oxford-llm2024/notebook/vector_types_similarity_scores.ipynb)** 
+  - **[Naive RAG with Langchain and RAGAS](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-oxford-llm2024/notebook/naive_rag_eval_qdrant_langchain_ragas.ipynb)** - Building and evaluating a naive RAG using Qdrant and RAGAS.
+  - **[Self Query RAG](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-oxford-llm2024/notebook/self_query_rag_qdrant_langchain.ipynb)** - Building a self query RAG on a Winemag dataset
+  - **[RAG with DSPy and RAGAS](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-oxford-llm2024/notebook/naive_rag_eval_qdrant_langchain_ragas_dspy.ipynb)** - RAG with DSPy with both Chain of Thought and ReACT methods.
+  - **[Advanced Hybrid Search and RAG Notebook with evaluation](https://github.com/qdrant/qdrant-rag-eval/blob/master/workshop-rag-eval-oxford-llm2024/notebook/advanced_hybrid_search_qdrant_rag.ipynb)** - Covered techniques with Advanced Hybrid Search using  `Dense + BM25` ,  `Dense + Splade` and `Dense + BM25 + Colbert with RRF` and evaluating the approaches.
+  <br/><br/>
+
 - **[synthetic_qna/notebook](https://github.com/qdrant/qdrant-rag-eval/tree/master/synthetic_qna)** : Showing synthetic evaluation question generation or checkout https://www.fiddlecube.ai/ 
 
 ### Qdrant Integration
